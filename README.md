@@ -6,7 +6,6 @@
 
 ---
 
-## Aperçu des Captures d'Écran
 
 <p align="center">
   <img src="Captures/img.png" alt="Capture 1" width="600"><br>
